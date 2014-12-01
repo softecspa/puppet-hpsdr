@@ -4,7 +4,7 @@
 #
 # === Authors
 #
-# Lorenzo Cocch <lorenzo.cocchi@softecspa.it>
+# Lorenzo Cocchi <lorenzo.cocchi@softecspa.it>
 #
 class hpsdr () {
 
